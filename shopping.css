@@ -1,0 +1,14 @@
+.jumbotron{
+    background-color: #ff6600;
+    background-image: url("shop.jpg");
+    background-repeat: no-repeat
+}
+.btn{
+    border-radius: 0px;
+    margin-bottom: 30px
+}
+.navbar {
+    background-color: #ddd;
+    color: black;
+    margin-left: 30px
+  }
